@@ -1,0 +1,8 @@
+.vs/
+EdgeGridAuth/bin/
+EdgeGridAuth/obj/
+EdgeGridAuthTest/bin/
+EdgeGridAuthTest/obj/
+OpenAPI/bin/
+OpenAPI/obj/
+packages/
